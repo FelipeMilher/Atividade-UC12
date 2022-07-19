@@ -1,0 +1,95 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.Menu-principal {
+    background-image: url('../img/Banner\ adptado.png');
+    width: 100%;
+    background-color: black;
+    height: 360px;
+    padding: 10px 10;
+}
+main {
+    width: 1420px;
+    float: left;
+    position: relative;
+}
+.logo {
+    float: left;
+    width: 50%;
+}
+.redes-sociais ul li {
+    margin-left: 15px;
+    display: inline-block;
+}
+.redes-sociais{
+    width: 33%;
+    float: right;
+}
+
+#Twitter {
+    padding: 0 20px;
+    float: right;
+}
+.header-2{
+    background-color: #F11212;
+    width: 100%;
+    padding: 10px 10;
+}
+.menu ul li {
+    display: inline-block;
+    color: #FFFFFF;
+    margin-left: 0px;
+}
+.menu ul li:houver{
+    border-bottom: 2px solid #F11212 ;
+}
+.menu ul li a:hover {
+    color: #F11212;
+}
+.menu ul li a {
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.busca {
+    width: 207% ;
+    float: right;
+}
+.busca input {
+    background-image: url('../img/pesquisa.png');
+    background-repeat: no-repeat;
+    background-position-x: right;
+    height: 70px;
+    padding: 20px;
+    width: 600px;
+    margin-top: 10%;
+}
+.Col-100 {
+    width: 100%;
+    float: left;
+    position: relative;
+}
+
+.imagem-principal {
+    width: 60%;
+    padding: 0px 0;
+}
+
+.header-3{
+    background-color: #F11212;
+    width: 100%;
+    padding: 10px 10;
+}
+.Fundo-da-parte-de-compras{
+    width: 1438px;
+    padding: 0px 0;
+}
+.header-4{
+    background-color: #F11212;
+    width: 100%;
+    padding: 3px 719;
+}
