@@ -121,6 +121,9 @@ body{
 }
 .Imagem{
     max-width: 100%;
+    background-size: cover;
+    
+    
 }
 main{
     background-image: url('../img/Fundo\ da\ parte\ das\ compras.png');
@@ -207,4 +210,10 @@ footer {
 .pagamentos {
     float: right;
     margin-left: 40%;
+}
+button.slick-prev {
+    border: none;
+}
+#header-3 a{
+    color: black;
 }
